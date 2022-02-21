@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarceloCavaliere
 - 👀 I’m interested in C# .NET code
 - 🌱 I’m currently learning .NET becausue I have started a new Job 
-- 💞️ I’m looking to collaborate on .NET projects as soon as I became a good programmer in C#
+- 💞️ I’m looking to collaborate on .NET projects as soon as I became a good a programmer in C#
 - 📫 marcelocavaliere@gmail.com
 
 <!---
